@@ -1,0 +1,7 @@
+[package]
+name = "tracy_diff"
+version = "0.1.0"
+edition = "2024"
+description = "Compare two Tracy profiler traces and report performance differences"
+
+[dependencies]
